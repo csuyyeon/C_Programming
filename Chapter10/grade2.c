@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define SIZE 5 //±âÈ£»ó¼ö Á¤ÀÇ
+#define SIZE 5 //ê¸°í˜¸ìƒìˆ˜ ì •ì˜
 
 int main(void)
 {
@@ -8,7 +8,7 @@ int main(void)
 	int grade[SIZE];
 
 	for (i = 0; i < SIZE; i++)
-		grade[i] = rand() % 100;     //0~99±îÁö ³­¼ö »ı¼º, ³­¼ö¸¦ 100À¸·Î ³ª´« ³ª¸ÓÁö °ª
+		grade[i] = rand() % 100;     //0~99ê¹Œì§€ ë‚œìˆ˜ ìƒì„±, ë‚œìˆ˜ë¥¼ 100ìœ¼ë¡œ ë‚˜ëˆˆ ë‚˜ë¨¸ì§€ ê°’
  	for (i = 0; i < SIZE; i++)
 		printf("grade[%d]=%d\n", i, grade[i]);
 	
