@@ -1,4 +1,4 @@
-//¹è¿­¼±¾ğ-1
+//ë°°ì—´ì„ ì–¸-1
 #include <stdio.h>
 
 int main(void)
@@ -11,7 +11,7 @@ int main(void)
 	grade[2] = 30;
 	grade[3] = 40;
 	grade[4] = 50;
-	//¹İº¹¹®À» ÅëÇØ ¹è¿­ ¿ø¼Ò¿¡ Á¢±Ù
+	//ë°˜ë³µë¬¸ì„ í†µí•´ ë°°ì—´ ì›ì†Œì— ì ‘ê·¼
 	for (i = 0; i < 5; i++)
 		printf("grade[%d]=%d\n", i, grade[i]);
 	return 0;
