@@ -1,3 +1,4 @@
+//배열선언-3
 #include <stdio.h>
 #include <stdlib.h>
 #define SIZE 5          //기호상수 SIZE, 학생들의 수를 변경하려면 이 기호상수의 정의만 변경=간단
