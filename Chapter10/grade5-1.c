@@ -1,4 +1,4 @@
-//�迭�ʱ�ȸ
+//배열초기화
 #include <stdio.h>
 int main(void)
 {
