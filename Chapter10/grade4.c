@@ -1,3 +1,4 @@
+//배열선언-4
 #include <stdio.h>
 #define STUDENTS 5
 int main(void)
