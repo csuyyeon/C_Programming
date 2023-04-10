@@ -1,3 +1,4 @@
+//배열 선언-2
 #include <stdio.h>
 #include <stdlib.h>
 #define SIZE 5 //기호상수 정의
