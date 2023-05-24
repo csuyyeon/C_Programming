@@ -1,11 +1,11 @@
-//¾ğ´õÇÃ·Î¿ì
+//æƒ…å¸Œå·´ç¨½é…”
 #include <stdio.h>
 
 int main(void)
 {
 	float x = 1.23456e-38;
 	float y = 1.23456e-40;
-	float z = 1.23456e-46;     //¾ğ´õÇÃ·Î¿ì ¹ß»ı
+	float z = 1.23456e-46;     //æƒ…å¸Œå·´ç¨½é…” é™æŒ
 
 	printf("x=%e\n", x);
 	printf("y=%e\n", y);
