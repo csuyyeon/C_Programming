@@ -1,4 +1,4 @@
-/*ºÎµ¿¼Ò¼öÁ¡ ÀÚ·áÇüÀÇ Å©±â °è»ê*/
+/*ë¶€ë™ì†Œìˆ˜ì  ìë£Œí˜•ì˜ í¬ê¸° ê³„ì‚°*/
 #include <stdio.h>
 
 int main(void)
@@ -6,8 +6,8 @@ int main(void)
 	float x = 1.234567890123456789;
 	double y = 1.234567890123456789;
 
-	printf("floatÀÇ Å©±â=%d\n", sizeof(float));
-	printf("doubleÀÇ Å©±â=%d\n", sizeof(double));
+	printf("floatì˜ í¬ê¸°=%d\n", sizeof(float));
+	printf("doubleì˜ í¬ê¸°=%d\n", sizeof(double));
 
 	printf("x = %30.25f\n", x);
 	printf("y = %30.25f\n", y);
